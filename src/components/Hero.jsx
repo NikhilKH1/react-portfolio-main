@@ -1,6 +1,6 @@
 import * as motion from "motion/react-client"
 import { HERO_CONTENT } from "../constants"
-import profilepic from "../assets/Nikhil.jpeg"
+import profilepic from "../assets/Nikhil2.jpeg"
 import { FaDownload } from 'react-icons/fa';
 
 
